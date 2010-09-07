@@ -1,0 +1,250 @@
+		{"Mx4rH6f3bFCsEdaAAACgydogAg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rH6f3bFCsEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Mx4rXc0wsESTEdmTygACs1uxFw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rXc0wsESTEdmTygACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"Mx4rvViA5ZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViA5ZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvWfpEZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWfpEZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvViBFZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViBFZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rOcaN_FCsEdaAAACgydogAg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rOcaN_FCsEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Mx4rvWEKXJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWEKXJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvWGIa5wpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWGIa5wpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rv86V55wpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv86V55wpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rwHb_bZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwHb_bZwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rvViAPpwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViAPpwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"range" :                      {
+			"uri" :       "http://www.w3.org/2000/01/rdf-schema#range",
+			"valueType" : "item"
+		}},
+		{"Mx4r1Sp9BFCrEdaAAACgydogAg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4r1Sp9BFCrEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Mx4rvVxE4ZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVxE4ZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"subPropertyOf" :              {
+			"uri" :       "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
+			"valueType" : "item"
+		}},
+		{"Mx4rvVi4w5wpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVi4w5wpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rv_gsJZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv_gsJZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rv6Bnr5wpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv6Bnr5wpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rwTvAxJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwTvAxJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"versionInfo" :                {
+			"uri" : "http://www.w3.org/2002/07/owl#versionInfo"
+		}},
+		{"Mx4rqKRbsA2HEdmeVwACs1uxFw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rqKRbsA2HEdmeVwACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"domain" :                     {
+			"uri" :       "http://www.w3.org/2000/01/rdf-schema#domain",
+			"valueType" : "item"
+		}},
+		{"Mx4rwD0ZEJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwD0ZEJwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rveXsnJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rveXsnJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rqKQ0ow2HEdmeVwACs1uxFw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rqKQ0ow2HEdmeVwACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"Mx4rvVttYJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVttYJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rMS6bOlCsEdaAAACgydogAg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rMS6bOlCsEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Mx4rvViBFpwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViBFpwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"sameAs" :                     {
+			"uri" :       "http://www.w3.org/2002/07/owl#sameAs",
+			"valueType" : "item"
+		}},
+		{"Mx4rqKQ0oQ2HEdmeVwACs1uxFw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rqKQ0oQ2HEdmeVwACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"Mx4rwPub4pwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwPub4pwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvViBFJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViBFJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvtwJ7JwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvtwJ7JwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rv20dOpwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv20dOpwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvWQiyJwpEbGdrcN5Y29ycA" : {
+			"uri" : "http://sw.opencyc.org/concept/Mx4rvWQiyJwpEbGdrcN5Y29ycA"
+		}},
+		{"Mx4rhsHcilCqEdaAAACgydogAg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rhsHcilCqEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Mx4r9kwboFCrEdaAAACgydogAg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4r9kwboFCrEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Mx4rvWCoh5wpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWCoh5wpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rIxW_4sRHEdaAAACQJ5qciw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rIxW_4sRHEdaAAACQJ5qciw",
+			"valueType" : "number"
+		}},
+		{"Mx4rvVjcuZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVjcuZwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rvVjc2pwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVjc2pwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rbS37M1bOEdaCJwACs0x8nw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rbS37M1bOEdaCJwACs0x8nw",
+			"valueType" : "item"
+		}},
+		{"Mx4rvViAzpwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViAzpwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rwLSVCpwpEbGdrcN5Y29ycA" : {
+			"uri" : "http://sw.opencyc.org/concept/Mx4rwLSVCpwpEbGdrcN5Y29ycA"
+		}},
+		{"comment" :                    {
+			"uri" : "http://www.w3.org/2000/01/rdf-schema#comment"
+		}},
+		{"Mx4rv9VBl5wpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv9VBl5wpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rvViLHZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViLHZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rqKQ0og2HEdmeVwACs1uxFw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rqKQ0og2HEdmeVwACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"Mx4rvWotlJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWotlJwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"label" :                      {
+			"uri" : "http://sw.cyc.com/CycAnnotations_v1#label"
+		}},
+		{"Mx4rqKQ0oA2HEdmeVwACs1uxFw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rqKQ0oA2HEdmeVwACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"Mx4riWVFR6HJSpaEaHrcWS3MSA" : {
+			"uri" : "http://sw.opencyc.org/concept/Mx4riWVFR6HJSpaEaHrcWS3MSA"
+		}},
+		{"Mx4rv3W2hJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv3W2hJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rv6fb8sijEdmAAAACs6hcqg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv6fb8sijEdmAAAACs6hcqg",
+			"valueType" : "number"
+		}},
+		{"Mx4rvViAPZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViAPZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rTNCuUE2CEduAAAACs6hRXg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rTNCuUE2CEduAAAACs6hRXg",
+			"valueType" : "number"
+		}},
+		{"Mx4rBVVEokNxEdaAAACgydogAg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rBVVEokNxEdaAAACgydogAg",
+			"valueType" : "item"
+		}},
+		{"Mx4rvV13g5wpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvV13g5wpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rqKQNkw2HEdmeVwACs1uxFw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rqKQNkw2HEdmeVwACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"Mx4rv0dhN5wpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv0dhN5wpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvVoULZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVoULZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rwSjE8ZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwSjE8ZwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rUWkoLE7WQdmNibTMa_GVsQ" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rUWkoLE7WQdmNibTMa_GVsQ",
+			"valueType" : "item"
+		}},
+		{"Mx4rvWeIEpwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWeIEpwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}}

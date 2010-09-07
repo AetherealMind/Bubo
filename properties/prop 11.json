@@ -1,0 +1,63 @@
+		{"Mx4rvWotlJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWotlJwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rvViA5ZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViA5ZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvViAPZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViAPZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"versionInfo" :                {
+			"uri" : "http://www.w3.org/2002/07/owl#versionInfo"
+		}},
+		{"Mx4riWVFR6HJSpaEaHrcWS3MSA" : {
+			"uri" : "http://sw.opencyc.org/concept/Mx4riWVFR6HJSpaEaHrcWS3MSA"
+		}},
+		{"domain" :                     {
+			"uri" :       "http://www.w3.org/2000/01/rdf-schema#domain",
+			"valueType" : "item"
+		}},
+		{"Mx4r9cNQkpDHEdmUiQACs1uxFw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4r9cNQkpDHEdmUiQACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"Mx4rBVVEokNxEdaAAACgydogAg" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rBVVEokNxEdaAAACgydogAg",
+			"valueType" : "item"
+		}},
+		{"comment" :                    {
+			"uri" : "http://www.w3.org/2000/01/rdf-schema#comment"
+		}},
+		{"Mx4rvViAzpwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViAzpwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rvViA8ZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViA8ZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rwTvAxJwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwTvAxJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rwLSVCpwpEbGdrcN5Y29ycA" : {
+			"uri" : "http://sw.opencyc.org/concept/Mx4rwLSVCpwpEbGdrcN5Y29ycA"
+		}},
+		{"Mx4rwSjE8ZwpEbGdrcN5Y29ycA" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwSjE8ZwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"sameAs" :                     {
+			"uri" :       "http://www.w3.org/2002/07/owl#sameAs",
+			"valueType" : "item"
+		}},
+		{"Mx4rZOAVeiYGEdqAAAACs2IMmw" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rZOAVeiYGEdqAAAACs2IMmw",
+			"valueType" : "item"
+		}},
+		{"label" :                      {
+			"uri" : "http://sw.cyc.com/CycAnnotations_v1#label"
+		}

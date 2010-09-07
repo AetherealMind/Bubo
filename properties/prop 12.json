@@ -1,0 +1,168 @@
+
+		{"Mx4rvWGIa5wpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWGIa5wpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"mutually-negating-predicate" :                         {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWEKXJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvViAPpwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViAPpwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"range" :                                               {
+			"uri" :       "http://www.w3.org/2000/01/rdf-schema#range",
+			"valueType" : "item"
+		}},
+		{"subPropertyOf" :                                       {
+			"uri" :       "http://www.w3.org/2000/01/rdf-schema#subPropertyOf",
+			"valueType" : "item"
+		}},
+		{"versionInfo" :                                         {
+			"uri" : "http://www.w3.org/2002/07/owl#versionInfo"
+		}},
+		{"domain" :                                              {
+			"uri" :       "http://www.w3.org/2000/01/rdf-schema#domain",
+			"valueType" : "item"
+		}},
+		{"Spatially-Intersecting-Entry-Format-In-Args" :         {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv6fb8sijEdmAAAACs6hcqg",
+			"valueType" : "number"
+		}},
+		{"Mx4rveXsnJwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rveXsnJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rMS6bOlCsEdaAAACgydogAg" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rMS6bOlCsEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"See-Also-URI" :                                        {
+			"uri" : "http://sw.opencyc.org/concept/Mx4riWVFR6HJSpaEaHrcWS3MSA"
+		}},
+		{"Mx4rvViBFpwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViBFpwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"sameAs" :                                              {
+			"uri" :       "http://www.w3.org/2002/07/owl#sameAs",
+			"valueType" : "item"
+		}},
+		{"Mx4rvWHsNJwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvWHsNJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Pretty-String" :                                       {
+			"uri" : "http://sw.opencyc.org/concept/Mx4rwLSVCpwpEbGdrcN5Y29ycA"
+		}},
+		{"Rewrite-Of" :                                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwTvAxJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Parts-Entry-Format-In-Args" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rH6f3bFCsEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Mx4r9kwboFCrEdaAAACgydogAg" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4r9kwboFCrEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Mx4rIxW_4sRHEdaAAACQJ5qciw" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rIxW_4sRHEdaAAACQJ5qciw",
+			"valueType" : "number"
+		}},
+		{"Spatio-Temporally-Intersecting-Entry-Format-In-Args" : {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rEZVqAMilEdmAAAACs6hcqg",
+			"valueType" : "number"
+		}},
+		{"Opaque-Argument" :                                     {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv9VBl5wpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rvVjc2pwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVjc2pwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvVjcuZwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVjcuZwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rvViAzpwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViAzpwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Mx4rLIO8KsiiEdmAAAACs6hcqg" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rLIO8KsiiEdmAAAACs6hcqg",
+			"valueType" : "number"
+		}},
+		{"Predicate-Convention-Mt" :                             {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rbS37M1bOEdaCJwACs0x8nw",
+			"valueType" : "item"
+		}},
+		{"comment" :                                             {
+			"uri" : "http://www.w3.org/2000/01/rdf-schema#comment"
+		}},
+		{"Quoted-Argument" :                                     {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwHb_bZwpEbGdrcN5Y29ycA",
+			"valueType" : "number"
+		}},
+		{"Open-Entry-Format-In-Args" :                           {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rhsHcilCqEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Old-Constant-Name" :                                   {
+			"uri" : "http://sw.opencyc.org/concept/Mx4rvWQiyJwpEbGdrcN5Y29ycA"
+		}},
+		{"Mx4rvViLHZwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvViLHZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4r0AXKw1WJEdeOQQACs6hfSg" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4r0AXKw1WJEdeOQQACs6hfSg",
+			"valueType" : "item"
+		}},
+		{"label" :                                               {
+			"uri" : "http://sw.cyc.com/CycAnnotations_v1#label"
+		}},
+		{"Mx4rqKQ0oA2HEdmeVwACs1uxFw" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rqKQ0oA2HEdmeVwACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"Mx4rv3W2hJwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv3W2hJwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Single-Entry-Format-In-Args" :                         {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4r1Sp9BFCrEdaAAACgydogAg",
+			"valueType" : "number"
+		}},
+		{"Shared-Notes" :                                        {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rwPub4pwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Quoted-Isa" :                                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rBVVEokNxEdaAAACgydogAg",
+			"valueType" : "item"
+		}},
+		{"Mx4rv7jSXpwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rv7jSXpwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rqKQNkw2HEdmeVwACs1uxFw" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rqKQNkw2HEdmeVwACs1uxFw",
+			"valueType" : "item"
+		}},
+		{"Negation-Inverse" :                                    {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVxE4ZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rvVoULZwpEbGdrcN5Y29ycA" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rvVoULZwpEbGdrcN5Y29ycA",
+			"valueType" : "item"
+		}},
+		{"Mx4rGC4LKlCsEdaAAACgydogAg" :                          {
+			"uri" :       "http://sw.opencyc.org/concept/Mx4rGC4LKlCsEdaAAACgydogAg",
+			"valueType" : "number"
+		}
+	}
