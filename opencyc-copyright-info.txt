@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xml:base="http://sw.opencyc.org/concept/"
+    xmlns="http://sw.opencyc.org/concept/"
+    xmlns:owl="http://www.w3.org/2002/07/owl#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+    xmlns:cyc="http://sw.cyc.com/"
+    xmlns:opencyc="http://sw.opencyc.org/"
+    xmlns:cycAnnot="http://sw.cyc.com/CycAnnotations_v1#">
+
+    <owl:Ontology rdf:about="">
+        <owl:versionInfo>Version 2.0.0</owl:versionInfo>
+        <rdfs:comment xml:lang="en">
+     OpenCyc Knowledge Base
+
+     Copyright© 2001-2009 Cycorp, Inc., http://www.cyc.com/, Austin, TX, USA
+
+     This file contains an OWL representation of information contained
+     in the OpenCyc Knowledge Base. The content of this OWL file is
+     licensed under the Creative Commons Attribution 3.0 license whose
+     text can be found at http://creativecommons.org/licenses/by/3.0/legalcode.
+     The content of this OWL file, including the OpenCyc content it represents,
+     constitutes the "Work" referred to in the Creative Commons license. The terms of
+     this license equally apply to, without limitation, renamings and other
+     logically equivalent reformulations of the content of this OWL file
+     (or portions thereof) in any natural or formal language, as well
+     as to derivations of this content or inclusion of it in other ontologies.
+
+     Mappings between OpenCyc terms and Wikipedia article names provided by
+     Olena Medelyan and Catherine Legg, University of Waikato, NZ under a Creative 
+     Commons Attribution 3.0 license.
+
+        </rdfs:comment>
+    </owl:Ontology>
+
