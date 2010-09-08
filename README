@@ -1,14 +1,30 @@
 Bubo the JSON version of the latest OpenCyc OWL ontology document.
-
+The OpenCyc project is here: http://www.opencyc.org/
 
 Hello All,
 
-I was doing some playing with the OpenCyc-latest.owl file and wanted to test it out in a NoSQL DB, So I am converting it to JSON if anyone is interested in the project check it out:
+I was doing some playing with the OpenCyc-latest.owl file and wanted to test it out in a NoSQL DB, So I converted it to JSON if anyone is interested in the project check it out:
 
 http://github.com/cognition/Bubo
-
-I just committed the first 19 parts of the ontology and working on converting the rest - then the next plan is to make 2 separate files one as a single json "table" and the other with each item separated into its on json "table"
 
 Hope it helps!
 
 Ramon Brooker
+
+Twitter: @cognition_mind
+LinkedIn: http://ca.linkedin.com/in/ramonbrooker
+Blog: http://cogniton-mind.tumblr.com/
+Gist:  http://gist.com/cognition.mind
+
+
+TODO:
+
+It has recently come to my attention that there are some dead links in the data set. So I will be looking into correcting those errors and uploading them, if anyone out there knows any specifics please let me know so I can correct them.
+
+
+Also,
+I still need to do a verification check that all the data was ported properly, (will be easier now that its in a DB) 
+
+
+
+
